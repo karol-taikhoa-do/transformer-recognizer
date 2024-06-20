@@ -1,1 +1,5 @@
 streamlit==1.31.1
+ultralytics==8.2.18
+torch==2.3.0
+pillow==10.2.0
+opencv-python==4.9.0.80
